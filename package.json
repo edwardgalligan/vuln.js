@@ -9,6 +9,6 @@
   "author": "Ed Galligan <code@edgalligan.com>",
   "license": "EUPL-1.2",
   "dependencies": {
-    "immer": "^9.0.12"
+    "immer": "^9.0.5"
   }
 }
